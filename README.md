@@ -59,4 +59,4 @@ Python-Text-Insight/
 
 <!-- ExeDevCentral Audit & Quality Stamp: 2026-11-14 (Phase 10/10) -->
 
-_Última revisión: 2026-11-25 20:05_
+_Última revisión: 2026-11-26 19:58_
